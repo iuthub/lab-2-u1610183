@@ -1,0 +1,42 @@
+.main{
+	border: 10px white solid; 
+}
+.extra{
+	float: left;
+	background-color: #A8F0F0;
+	border: 4px blue solid;
+	padding:5px;
+	margin-right:6px;
+	margin-top:6px;
+}
+.first{
+	background-color: #A8F0F0;
+	text-align: right;
+}
+.first h2{
+	font-size: 14pt;
+}
+.third{
+	border: 4px #C2E9E9 solid;
+	background-color: #E8FBFB;
+	padding:5px;
+	margin-top:10px;
+	overflow:hidden;
+}
+#fourth{
+	border-bottom: 2px blue dashed;
+}
+.main{
+	border: 10px white solid;
+	background-color: #FFFFFF;
+}
+body{
+	background-image: url(https://enviragallery.com/wp-content/uploads/2015/10/wooden-surface-1.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-left:10%;
+	margin-right:10%;
+}
+.third img{
+	float:right;
+}
